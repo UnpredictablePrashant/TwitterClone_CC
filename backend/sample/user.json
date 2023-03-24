@@ -1,0 +1,40 @@
+{
+    "username": "prashandey",
+    "password": "Prashant123",
+    "email": "prashant@xyz.com",
+    "phone": "9999999999",
+    "name": "Prashant Dey",
+    "bio": "I am a developer",
+    "location": "Delhi, India",
+    "profilePic": "profilepic.png",
+    "createdAt": "24-03-2023",
+    "website": "https://prashantdey.in",
+    "following": [
+        {
+            "follow":" ObjectId('6406cc3026ce802cd675dd6f')"
+        },
+        {
+            "follow":" ObjectId('6406cc3026ce802cd675dd6f')"
+        }
+    ],
+    "followers": [
+        {
+            "follow":" ObjectId('6406cc3026ce802cd675dd6f')"
+        },
+        {
+            "follow":" ObjectId('6406cc3026ce802cd675dd6f')"
+        }
+    ],
+    "tweets": [
+        {
+            "tweet": "ObjectId('6406cc3026fe802cd675dd6f')"
+        },
+        {
+            "tweet": "ObjectId('6406cc3026le802cd675dd6f')"
+        },
+        {
+            "tweet": "ObjectId('6406cc3826fe802cd675dd6f')"
+        }
+    ]
+
+}
